@@ -1,0 +1,9 @@
+README
+
+Assignment date: 7 April 2015
+
+to compile: type make
+
+to run: ./toad <inputfile> <outputfile>
+
+I did the first part of the "extra" section (the compression)
